@@ -1,0 +1,32 @@
+[
+    {
+      "name": "bike",
+      "projectiondata": [
+        {
+          "year": 2015,
+          "value": 47.4
+        },
+        {
+          "year": 2061,
+          "value": 20
+        },
+        {
+          "year": 2062,
+          "value": 20
+        },
+        {
+          "year": 2063,
+          "value": 20
+        },
+        {
+          "year": 2064,
+          "value": 20
+        }
+      ],
+      "assettitle": "Bike / Pedestrian System",
+      "maintext": "This is the Bike asset lorum ipsum, eu euismod augue venenatis nec. Suspendisse velit arcu, mollis nec pretium sit amet, commodo nec dui. Proin gravida vel elit id pellentesque. Pellentesque pharetra vitae lorem eu rutrum. Cras vestibulum est et imperdiet molestie. Vestibulum rutrum nulla sed dui lacinia egestas. Aliquam vehicula accumsan velit at mattis.\nVestibulum massa mi, consequat sed sem at, vestibulum dignissim lectus. Cras sapien dolor, viverra nec lacinia vel, elementum at neque. Proin nibh leo, aliquam eu ante ac, aliquam molestie mi. Donec rhoncus velit mollis nulla egestas dignissim. Aliquam rhoncus magna elementum, elementum diam vitae, ultricies nibh. Integer porttitor, eros sit amet condimentum lobortis, turpis velit ullamcorper quam, eu lobortis purus urna sit amet erat. Vestibulum id felis sed odio hendrerit mattis at ac diam. Integer ullamcorper tempus tellus, ut tincidunt arcu dignissim nec. Quisque suscipit dictum sem ac euismod. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis nec rhoncus odio. Nam ultrices at quam eget mattis. Curabitur a erat vitae felis sollicitudin scelerisque id id nulla. Etiam cursus eget enim vitae tempus. Aliquam erat volutpat.\nMauris ut est at felis ullamcorper pretium. Curabitur accumsan erat tempus nisl dignissim luctus. Donec luctus euismod sapien id feugiat. Duis eros eros, accumsan vel metus nec, aliquam fringilla felis. In varius porta urna sit amet eleifend. Etiam accumsan leo ex, sed fringilla magna ullamcorper non. Morbi a imperdiet elit. Mauris egestas augue eget iaculis pharetra. Nam vehicula erat ac nisl blandit sodales.",
+      "splash-img": ""
+    }
+]
+
+    
